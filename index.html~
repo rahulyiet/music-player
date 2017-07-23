@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JS Drum Kit</title>
+  <link rel="stylesheet" href="style1.css">
+</head>
+<body> 
+
+<div class="image">
+<a href="drumkit.html" id="drum"><img style="border-radius:50%; height:250px; width:250px; border:2px solid red;" src="3D-Drums-HD-Wallpaper.jpg"><div><h1 style="color: red; width:100%; padding:0 30px 0 70px;">Drumkit</h1></div></a>
+<a href="Javascript Class 4/song.html"><img style="border-radius:50%; height:250px; width:250px; border:2px solid red;" src="3866-vector-graphics-backgrounds-swirls-dj-girls-pictures-girl-vector-wallpaper-hd-mds.jpg"><div><h1 style="color: red; width:100%;padding:0 30px 0 70px;">Music player</h1></div></a>
+</div>
+
+  </body>
+</html>
