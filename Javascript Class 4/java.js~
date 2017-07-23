@@ -45,8 +45,8 @@
 								});
 	<!----------------------------------fancyTimeFormat of curenttime--------------------------->						
 									
-									function fancyTimeFormat(time)
-{   
+									function fancyTimeFormat(time){  
+ 
 											// Hours, minutes and seconds
 											var hrs = ~~(time / 3600);
 											var mins = ~~((time % 3600) / 60);
@@ -75,7 +75,18 @@
 												$('.time-elapsed').text(currentTime);
 												$('.song-duration').text(duration);
 											}
-												
+
+											
+
+
+                                                                   
+
+
+
+
+
+
+	
       // <!-------------------------------------adding list of song to your app-------------------------------------------->
 												
 																						
